@@ -21,3 +21,5 @@ jobs:
       - uses: actions/checkout@v1
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: {}
