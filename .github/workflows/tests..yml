@@ -22,4 +22,4 @@ jobs:
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: {}
+          INPUT_SCHEMA: /main/simpleSchema.json
