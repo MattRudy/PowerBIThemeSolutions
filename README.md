@@ -1,5 +1,6 @@
 # PowerBIThemeSolutions
 [![Inline docs](http://inch-ci.org/github/MattRudy/PowerBIThemeSolutions.svg?branch=main&style=shields)](http://inch-ci.org/github/MattRudy/PowerBIThemeSolutions)
+[![Validate JSONs](https://github.com/MattRudy/PowerBIThemeSolutions/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/MattRudy/PowerBIThemeSolutions/actions/workflows/tests.yml)
 <br>I'm often approached with Power BI Theme Problems. This is an evergreen catalogue of their solutions as the tool evolves.
 
 In an ideal world, I'd like to have permanent solutions in Themes for problems like 'I want to always have layer order maintained' and 'I want to always have visual headers hidden'. In the ever-evolving state of Power BI we constantly see new visuals released and changes to the UI that often mean universal settings that should apply to everything only apply to a subset of the current visuals.
