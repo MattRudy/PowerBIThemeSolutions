@@ -16,21 +16,21 @@ Read on for a list of problems!
 * Python Custom Visual
 
 ## Always have outlines on every visual
-Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to AlwaysHaveOutlines.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/setup-themes/src/AlwaysHaveOutlines.json)
+Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to AlwaysHaveOutlines.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AlwaysHaveOutlines.json)
 <br>Known Problems: None
 <br>Last Checked (Version): Never (No Version)
 
 ## Always have a background on every visual
-Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to AlwaysHaveBackgrounds.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/setup-themes/src/AlwaysHaveBackgrounds.json)
+Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to AlwaysHaveBackgrounds.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AlwaysHaveBackgrounds.json)
 <br>Known Problems: None
 <br>Last Checked (Version): Never (No Version)
 
 ## Always have 'Maintain Layer Order' turned on for every visual
-Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to MaintainLayerOrder.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/setup-themes/src/MaintainLayerOrder.json)
+Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to MaintainLayerOrder.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/MaintainLayerOrder.json)
 <br>Known Problems: None
 <br>Last Checked (Version): Never (No Version)
 
 ## Always have Visual Headers hidden for every visual
-Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to HideVisualHeaders.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/setup-themes/src/HideVisualHeaders.json)
+Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to HideVisualHeaders.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/HideVisualHeaders.json)
 <br>Known Problems: None
 <br>Last Checked (Version): Never (No Version)
