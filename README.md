@@ -15,17 +15,17 @@ Read on for a list of problems!
 * Python Custom Visual
 
 ## Always have outlines on every visual
-Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) Theme Link
+Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)]() Theme Link
 <br>Known Problems: None
 <br>Last Checked (Version): Never (No Version)
 
 ## Always have a background on every visual
-Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) Theme Link
+Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)]() Theme Link
 <br>Known Problems: None
 <br>Last Checked (Version): Never (No Version)
 
 ## Always have 'Maintain Layer Order' turned on for every visual
-Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) Theme Link
+Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)]() Theme Link
 <br>Known Problems: None
 <br>Last Checked (Version): Never (No Version)
 
