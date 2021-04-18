@@ -26,6 +26,7 @@ Known Problems: None
 Last Checked (Version): Never (No Version)
 
 ## Always have Visual Headers hidden for every visual
-# Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) Theme Link
-# Known Problems: None
-# Last Checked (Version): Never (No Version)
+Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) Theme Link
+<br>[![Inline docs](http://inch-ci.org/github/MattRudy/PowerBIThemeSolutions.svg?branch=main&style=shields)](http://inch-ci.org/github/MattRudy/PowerBIThemeSolutions)
+<br>Known Problems: None
+<br>Last Checked (Version): Never (No Version)
