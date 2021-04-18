@@ -10,6 +10,10 @@ The approach taken will be to include both the global and visual-specific settin
 
 Read on for a list of problems!
 
+## Currently Ignoring the following:
+* R Custom Visual
+* Python Custom Visual
+
 ## Always have outlines on every visual
 Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) Theme Link
 <br>Known Problems: None
