@@ -15,6 +15,7 @@ Read on for a list of problems!
 * R Custom Visual
 * Python Custom Visual
 * PowerApps Visual
+* Visuals other than default and preview visuals bundled with the latest version of Power BI (If you had to add it manually or get it from AppSource, it's not covered here)
 
 ## Always have outlines on every visual
 Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to AlwaysHaveOutlines.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AlwaysHaveOutlines.json)
