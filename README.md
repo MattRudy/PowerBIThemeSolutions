@@ -27,9 +27,9 @@ Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https
 <br>Last Checked (Version): Never (No Version)
 
 ## Always have 'Maintain Layer Order' turned on for every visual
-Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to MaintainLayerOrder.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/MaintainLayerOrder.json)
-<br>Known Problems: None
-<br>Last Checked (Version): Never (No Version)
+Theme [![Build](https://img.shields.io/badge/Build-Verified-green.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/MaintainLayerOrder.json) [Link to MaintainLayerOrder.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/MaintainLayerOrder.json)
+<br>Known Problems: Specific settings for new 'Power Apps' visual not yet stable.
+<br>Last Checked (Version): April 25, 2021 ( 2.92.706.0 64-bit (April, 2021) )
 
 ## Always have Visual Headers hidden for every visual
 Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to HideVisualHeaders.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/HideVisualHeaders.json)
