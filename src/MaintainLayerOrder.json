@@ -1,6 +1,13 @@
 {
 	"name": "MaintainLayerOrder",
 	"visualStyles": {
+		"*": {
+            "*": {
+				"general": [{
+					"keepLayerOrder": true
+				}]
+			}
+		},
 		"barChart": {
 			"*": {
 				"general": [{
