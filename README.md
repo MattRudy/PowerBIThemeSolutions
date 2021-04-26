@@ -14,6 +14,7 @@ Read on for a list of problems!
 ## Currently Ignoring the following:
 * R Custom Visual
 * Python Custom Visual
+* PowerApps Visual
 
 ## Always have outlines on every visual
 Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to AlwaysHaveOutlines.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AlwaysHaveOutlines.json)

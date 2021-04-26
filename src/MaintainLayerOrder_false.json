@@ -4,259 +4,259 @@
 		"barChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"columnChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"clusteredBarChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"clusteredColumnChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"hundredPercentStackedBarChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"hundredPercentStackedColumnChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"lineChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"areaChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"stackedAreaChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"lineStackedColumnComboChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"lineClusteredColumnComboChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"ribbonChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"waterfallChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"funnel": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"scatterChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"pieChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"donutChart": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"treemap": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"map": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"filledMap": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"gauge": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"card": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"multiRowCard": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"textbox": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"slicer": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"tableEx": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"pivotTable": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"esriVisual": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"shapeMap": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"azureMap": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"kpi": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"keyDriversVisual": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"decompositionTreeVisual": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"qnaVisual": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"actionButton": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"basicShape": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		},
 		"image": {
 			"*": {
 				"general": [{
-					"keepLayerOrder": true
+					"keepLayerOrder": false
 				}]
 			}
 		}
