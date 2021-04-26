@@ -40,6 +40,7 @@ Read on for a list of problems!
 <br>**Known Problems (Global Settings):** None
 <br>**Known Problems (Per-Visual Setings):**
 * Specific settings for new 'Power Apps' visual not yet stable.
+* Some shapes respond to 'basicShape' and some to 'shape' so both should be set in templates unless using global settings.
 
 ## Always have Visual Headers hidden for every visual
 [![Build](https://img.shields.io/badge/Build-Verified-brightgreen.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/HideVisualHeaders.json) [Link to HideVisualHeaders.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/HideVisualHeaders.json)
