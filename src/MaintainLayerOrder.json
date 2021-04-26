@@ -2,7 +2,7 @@
 	"name": "MaintainLayerOrder",
 	"visualStyles": {
 		"*": {
-            		"*": {
+            "*": {
 				"general": [{
 					"keepLayerOrder": true
 				}]
@@ -247,6 +247,13 @@
 			}
 		},
 		"actionButton": {
+			"*": {
+				"general": [{
+					"keepLayerOrder": true
+				}]
+			}
+		},
+		"shape": {
 			"*": {
 				"general": [{
 					"keepLayerOrder": true

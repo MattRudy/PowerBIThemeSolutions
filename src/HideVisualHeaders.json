@@ -1,5 +1,278 @@
 {
-	"name": "HideVisualHeaders",
+	"name": "MaintainLayerOrder",
 	"visualStyles": {
-  }
+		"*": {
+            "*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"barChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"columnChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"clusteredBarChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"clusteredColumnChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"hundredPercentStackedBarChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"hundredPercentStackedColumnChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"lineChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"areaChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"stackedAreaChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"lineStackedColumnComboChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"lineClusteredColumnComboChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"ribbonChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"waterfallChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"funnel": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"scatterChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"pieChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"donutChart": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"treemap": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"map": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"filledMap": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"gauge": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"card": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"multiRowCard": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"textbox": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"slicer": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"tableEx": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"pivotTable": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"esriVisual": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"shapeMap": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"azureMap": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"kpi": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"keyDriversVisual": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"decompositionTreeVisual": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"qnaVisual": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"actionButton": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"shape": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"basicShape": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		},
+		"image": {
+			"*": {
+				"visualHeader": [{
+					"show": false
+				}]
+			}
+		}
+	}
 }
