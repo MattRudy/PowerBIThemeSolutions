@@ -27,7 +27,7 @@ Theme [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https
 <br>Last Checked (Version): Never (No Version)
 
 ## Always have 'Maintain Layer Order' turned on for every visual
-Theme [![Build](https://img.shields.io/badge/Build-Verified-green.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/MaintainLayerOrder.json) [Link to MaintainLayerOrder.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/MaintainLayerOrder.json)
+Theme [![Build](https://img.shields.io/badge/Build-Verified-brightgreen.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/MaintainLayerOrder.json) [Link to MaintainLayerOrder.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/MaintainLayerOrder.json)
 <br>Known Problems: Specific settings for new 'Power Apps' visual not yet stable.
 <br>Last Checked (Version): April 25, 2021 ( 2.92.706.0 64-bit (April, 2021) )
 
