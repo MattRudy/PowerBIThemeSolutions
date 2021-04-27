@@ -38,7 +38,7 @@ Read on for a list of problems!
 <br>**Why?** Ensures that visuals behind other visuals in the layer order don't "jump" in front when selected. Previously this was controlled with bookmarks.
 <br>**Last Checked (Version):** April 25, 2021 ( 2.92.706.0 64-bit (April, 2021) )
 <br>**Known Problems (Global Settings):** None
-<br>**Known Problems (Per-Visual Setings):**
+<br>**Known Problems (Per-Visual Settings):**
 * Specific settings for new 'Power Apps' visual not yet stable.
 * Some shapes respond to 'basicShape' and some to 'shape' so both should be set in templates unless using global settings.
 
@@ -47,6 +47,6 @@ Read on for a list of problems!
 <br>**Why?** Ensures a custom-built app feel for users. Individual visual headers aren't popping up when hovering over visuals or objects on pages.
 <br>**Last Checked (Version):** April 26, 2021 ( 2.92.706.0 64-bit (April, 2021) )
 <br>**Known Problems (Global Settings):** None
-<br>**Known Problems (Per-Visual Setings):**
+<br>**Known Problems (Per-Visual Settings):**
 * Specific settings for new 'Power Apps' visual not yet stable.
 * Some shapes respond to 'basicShape' and some to 'shape' so both should be set in templates unless using global settings.
