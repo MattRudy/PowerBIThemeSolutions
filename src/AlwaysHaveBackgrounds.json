@@ -15,7 +15,7 @@
 				"background": [{
 					"show": true,
 					"color": { "solid": { "color": "#B9E5F3"}},
-					"transparency": "0D"
+					"transparency": 35
 				}]
 			}
 		}
