@@ -29,8 +29,9 @@ Read on for a list of problems!
 <br>**Known Problems:** None
 
 ## Always have a background on every visual
-[![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to AlwaysHaveBackgrounds.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AlwaysHaveBackgrounds.json)
-<br>**Last Checked (Version):** Never (No Version)
+[![Build](https://img.shields.io/badge/Build-Verified-brightgreen.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AlwaysHaveBackgrounds.json) [Link to AlwaysHaveBackgrounds.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AlwaysHaveBackgrounds.json)
+<br>**Why?** Ensures that all visuals and pages have backgrounds enabled.
+<br>**Last Checked (Version):** April 28, 2021 ( 2.92.706.0 64-bit (April, 2021) )
 <br>**Known Problems:** None
 
 ## Always set fonts on every visual (Minimal Approach)
