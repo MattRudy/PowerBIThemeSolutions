@@ -1,0 +1,17 @@
+{
+    "name": "Set Global Fonts (Minimal)",
+    "textClasses": {
+        "callout": {
+            "fontFace": "Wingdings"
+        },
+        "title": {
+            "fontFace": "Wingdings"
+        },
+        "header": {
+            "fontFace": "Wingdings"
+        },
+        "label": {
+            "fontFace": "Wingdings"
+        }
+    }
+}
