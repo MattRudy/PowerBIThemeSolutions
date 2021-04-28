@@ -1,5 +1,23 @@
 {
 	"name": "AlwaysHaveBackgrounds",
 	"visualStyles": {
-  }
+		"*": {
+			"*": {
+				"background": [{
+					"show": true,
+					"color": { "solid": { "color": "#D12424"}},
+					"transparency": 0
+				}]
+			}
+		},
+		"page": {
+			"*": {
+				"background": [{
+					"show": true,
+					"color": { "solid": { "color": "#B9E5F3"}},
+					"transparency": "0D"
+				}]
+			}
+		}
+	}
 }
