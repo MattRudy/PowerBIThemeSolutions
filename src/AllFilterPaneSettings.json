@@ -1,0 +1,42 @@
+{
+    "name": "All Filter Pane Settings",
+    "visualStyles":{
+        "*": {
+            "*": {
+                "outspacePane": [{
+                    "backgroundColor": {"solid": {"color": "#268361"}},
+                    "foregroundColor": {"solid": {"color": "#5CBE9A"}},
+                    "transparency": 15,
+                    "titleSize": 24,
+                    "headerSize": 12,
+                    "fontFamily": "Segoe UI",
+                    "border": true,
+                    "width":240,
+                    "borderColor": {"solid": {"color": "#1A5741"}}
+                }],
+                "filterCard": [
+                    {
+                    "$id": "Applied",
+                    "transparency": 0,
+                    "backgroundColor": {"solid": {"color": "#7F375B"}},
+                    "foregroundColor": {"solid": {"color": "#BF5289"}},
+                    "textSize": 12,
+                    "border": true,
+                    "borderColor": {"solid": {"color": "#FE8AC5"}},
+                    "inputBoxColor": {"solid": {"color": "#FFC5E2"}}
+                    },
+                    {
+                    "$id": "Available",
+                    "transparency": 40,
+                    "backgroundColor": {"solid": {"color": "#B6970D"}},
+                    "foregroundColor": {"solid": {"color": "#F5D441"}},
+                    "textSize": 12,
+                    "border": true,
+                    "borderColor": {"solid": {"color": "#7A6509"}},
+                    "inputBoxColor": {"solid": {"color": "#FAE9A0"}}
+                    }
+                ] 
+            }
+        }
+    }
+}

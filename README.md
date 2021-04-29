@@ -23,6 +23,20 @@ Read on for a list of problems!
 <br>**Last Checked (Version):** Never (No Version)
 <br>**Known Problems:** None
 
+## All Button Settings
+[![Build](https://img.shields.io/badge/Build-Verified-brightgreen.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AllButtonSettings.json) [Link to AllButtonSettings.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AllButtonSettings.json)
+<br>**Why?** Captures button settings for all states, as they are not well represented in the [Power BI Theme Documentation](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes#setting-formatted-text-defaults).
+<br>**Credit:** The theme was adapted from an excellent answer by **tmckenzie** found here: [Link to Microsoft Power BI Community Thread](https://community.powerbi.com/t5/Developer/actionButton-Power-BI-JSON-Theme/m-p/640749)
+<br>**Last Checked (Version):** April 28, 2021 ( 2.92.706.0 64-bit (April, 2021) )
+<br>**Known Problems:** None
+
+## All Filter Pane Settings
+[![Build](https://img.shields.io/badge/Build-Verified-brightgreen.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AllFilterPaneSettings.json) [Link to AllFilterPaneSettings.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AllFilterPaneSettings.json)
+<br>**Why?** Captures settings for filter pane, as they are not well represented in the [Power BI Theme Documentation](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes#setting-formatted-text-defaults).
+<br>**Credit:** The theme was adapted from an excellent answer by **tmckenzie** found here: [Link to Microsoft Power BI Community Thread](https://community.powerbi.com/t5/Developer/actionButton-Power-BI-JSON-Theme/m-p/640749)
+<br>**Last Checked (Version):** April 28, 2021 ( 2.92.706.0 64-bit (April, 2021) )
+<br>**Known Problems:** None
+
 ## Always have outlines on every visual
 [![Build](https://img.shields.io/badge/Build-Unverified-yellow.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/edit/main/README.md) [Link to AlwaysHaveOutlines.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/AlwaysHaveOutlines.json)
 <br>**Last Checked (Version):** Never (No Version)
