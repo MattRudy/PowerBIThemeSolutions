@@ -1,0 +1,138 @@
+{
+    "name": "Best Defaults For Custom Background (Dark Theme)",
+    "textClasses": {
+        "callout": {
+            "fontColor": "#FFFFFF"
+        },
+        "title": {
+            "fontColor": "#FFFFFF"
+        },
+        "header": {
+            "fontColor": "#FFFFFF"
+        },
+        "label": {
+            "fontColor": "#FFFFFF"
+        }
+    },
+    "visualStyles": {
+		"*": {
+			"*": {
+				"general": [{
+					"keepLayerOrder": true
+				}],
+                "visualHeader": [{
+                    "show": false
+                }],
+				"background": [{
+					"show": false,
+					"transparency": 100
+				}]
+			}
+		},
+		"page": {
+			"*": {
+				"background": [{
+					"show": true,
+					"color": { "solid": { "color": "#000000"}},
+                    "image": {
+                        "scaling": "Fit"
+                    },
+					"transparency": 0
+				}]
+			}
+		},
+        "actionButton": {
+            "*" : {
+                "border":
+                    [{
+                        "show": false
+                    }],
+                "visualHeader":
+                    [{
+                        "show": false
+                    }],
+                "background":
+                    [{
+                        "show": false
+                    }],
+                "title":
+                    [{
+                        "show": false
+                    }],
+                "outline":
+                    [{
+                        "show": true
+                    },
+                    {
+                        "$id": "default",
+                        "weight": 5,
+                        "outlineColor": {"solid":{"color":"#E6E6E6"}}
+                    },
+                    {
+                        "$id": "hover",
+                        "weight": 5,
+                        "outlineColor": {"solid":{"color":"#8987E6"}}
+                    },
+                    {
+                        "$id": "selected",
+                        "weight": 5,
+                        "outlineColor": {"solid":{"color":"#3C39C5"}}
+                    }],
+                "fill":
+                    [{
+                        "show": true
+                    },
+                    {
+                        "$id": "default",
+                        "transparency": 0,
+                        "fillColor": {"solid":{"color":"#12107E"}}
+                    },
+                    {
+                        "$id": "hover",
+                        "transparency": 0,
+                        "fillColor": {"solid":{"color":"#1D1BA2"}}
+                    },
+                    {
+                        "$id": "selected",
+                        "transparency": 0,
+                        "fillColor": {"solid":{"color":"#FFFFFF"}}
+                    }],
+                "icon":
+                    [{
+                        "show": true
+                    },
+                    {
+                        "$id": "default",
+                        "lineColor": {"solid":{"color":"#E6E6E6"}}
+                    },
+                    {
+                        "$id": "hover",
+                        "lineColor": {"solid":{"color":"#8987E6"}}
+                    },
+                    {
+                        "$id": "selected",
+                        "lineColor": {"solid":{"color":"#3C39C5"}}
+                    }],
+                "text":
+                    [{
+                        "show": true
+                    },
+                    {
+                        "$id": "default",
+                        "fontColor": {"solid":{"color":"#E6E6E6"}},
+                        "horizontalAlignment": "center"
+                    },
+                    {
+                        "$id": "hover",
+                        "fontColor": {"solid":{"color":"#8987E6"}},
+                        "horizontalAlignment": "center"
+                    },
+                    {
+                        "$id": "selected",
+                        "fontColor": {"solid":{"color":"#3C39C5"}},
+                        "horizontalAlignment": "center"
+                    }]
+            }
+        }
+	}
+}
