@@ -19,7 +19,7 @@ Read on for a list of problems!
 
 ## Best Defaults for Custom Backgrounds
 [![Build](https://img.shields.io/badge/Build-In_Development-purple.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/BestDefaultsForCustomBackground_DarkTheme.json) [Link to DarkTheme.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/BestDefaultsForCustomBackground_DarkTheme.json)
-[![Build](https://img.shields.io/badge/Build-In_Development-purple.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/BestDefaultsForCustomBackground_LightTheme.json) [Link to LightTheme.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/BestDefaultsForCustomBackground_LightTheme.json)
+<br>[![Build](https://img.shields.io/badge/Build-In_Development-purple.svg)](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/BestDefaultsForCustomBackground_LightTheme.json) [Link to LightTheme.json](https://github.com/MattRudy/PowerBIThemeSolutions/blob/main/src/BestDefaultsForCustomBackground_LightTheme.json)
 <br>**Why?** Includes setting all backgrounds to transparent, setting page background transparency to 0 and background to 'fit' so that custom backgrounds show under all visuals. Versions for both light and dark themes.
 <br>**Last Checked (Version):** Never (No Version)
 <br>**Known Problems:** None

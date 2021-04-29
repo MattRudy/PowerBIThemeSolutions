@@ -23,4 +23,4 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./tests/testSchema.json
-          INPUT_JSONS: ./src/AlwaysHaveBackgrounds.json,./src/AlwaysHaveOutlines.json,./src/HideVisualHeaders.json,./src/MaintainLayerOrder.json
+          INPUT_JSONS: ./src/AlwaysHaveBackgrounds.json,./src/AlwaysHaveOutlines.json,./src/HideVisualHeaders.json,./src/MaintainLayerOrder.json,./src/BestDefaultsForCustomBackground_DarkTheme.json,./src/BestDefaultsForCustomBackground_LightTheme.json
